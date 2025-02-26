@@ -1,5 +1,6 @@
 # week-6
 
+Recommender systems are valuable for e-commerce and various other applications like music, video, and other services. While advanced mathematical techniques and algorithms can be used to build them, simpler methods can also be effective.
 # !pip install numpy pandas matplotlib
 
 1. Exploratory Data Analysis (EDA):
